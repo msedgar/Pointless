@@ -1,4 +1,4 @@
-const width = 1200;
+const width = 1000;
 const height =1000;
 
 var nodes = d3.range(500).map(function() { return {radius: Math.random() * 15 + 4}; }),
